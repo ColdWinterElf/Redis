@@ -75,4 +75,7 @@ sentinel基于心跳机制监测服务状态，没隔1秒向集群的每个实�
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/63f73b61-2713-4ba3-b819-460475900a4e)
 redistemplate的哨兵模式
  ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/67e493a1-6701-465d-bb9e-8e9625022039)
+分片集群结构
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/7729c1a1-7948-4ea6-be7a-04e527bec132)
+
 
