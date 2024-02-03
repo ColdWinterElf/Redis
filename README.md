@@ -30,7 +30,8 @@ AOF文件不断追加写操作命令一般设置为ｅｙｅｒｙｓｅｃ 命�
 一般来讲读操作也就是查询是多于写操作，而单节点redis并发能力有限，所以需要搭建主从集群，实现读写分离。从节点只允许读操作，主节点只允许写操作以此实现读写分离。
 
 命令格式 （slaveof/replicaof） 从ip 主ip 
- 
+ ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/89dd69d1-5b05-4cce-aed9-64e8c90dfd5f)
+
 主从第一次要做全量同步
 1 从节点执行replicaof命令，建立连接，并向主节点请求数据同步。
 2 主节点判断是否是第一次同步。
