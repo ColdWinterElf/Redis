@@ -68,4 +68,5 @@ redis提供了哨兵机制Sentinel来实现主从集群的故障恢复。
 2.	自动故障恢复：如果master故障，sentinel会将一个slave提升为master。当故障实例恢复后也以新的master为主
 3.	sentinel充当redis客户端的服务发现来源，当集群发生故障转移时，会将	最新信息推送给redis客户端
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/2ca7978f-cbaa-46fd-ad61-500c54fe3ff8)
+
  
