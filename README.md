@@ -77,5 +77,6 @@ redistemplate的哨兵模式
  ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/67e493a1-6701-465d-bb9e-8e9625022039)
 分片集群结构
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/7729c1a1-7948-4ea6-be7a-04e527bec132)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/14b7a536-1386-4ce6-9eea-ed98896affb9)
 
 
