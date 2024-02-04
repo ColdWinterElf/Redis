@@ -78,5 +78,12 @@ redistemplate的哨兵模式
 分片集群结构
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/7729c1a1-7948-4ea6-be7a-04e527bec132)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/14b7a536-1386-4ce6-9eea-ed98896affb9)
+redis分片集群集群故障转移
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/cd922c0b-1d2a-4be4-b696-d38d3aa06049)
+数据迁移由于（机器老旧或升级或其他）
+传统缓存存在的问题
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/0d75d05a-56e6-48cf-907f-74bdffd0f80c)
+采用多级缓存方案降低服务器压力
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/08262893-8063-471a-93fb-73a9864c6443)
 
 
