@@ -85,5 +85,9 @@ redis分片集群集群故障转移
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/0d75d05a-56e6-48cf-907f-74bdffd0f80c)
 采用多级缓存方案降低服务器压力
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/08262893-8063-471a-93fb-73a9864c6443)
+本地进程缓存
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/cfb3d74f-855e-4532-a050-9dec970133d8) 
+caffeine示例
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/8c3105dd-089d-4e41-8916-fc439c77f1f0)
 
 
