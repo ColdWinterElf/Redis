@@ -89,5 +89,9 @@ redis分片集群集群故障转移
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/cfb3d74f-855e-4532-a050-9dec970133d8) 
 caffeine示例
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/8c3105dd-089d-4e41-8916-fc439c77f1f0)
+冷启动与缓存预热
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/c0aa3449-2ceb-431c-83f1-08f984532bf4)
+缓存预热
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/376f9826-5573-4ce0-9609-14d7c94b6f5c)
 
 
