@@ -93,5 +93,11 @@ caffeine示例
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/c0aa3449-2ceb-431c-83f1-08f984532bf4)
 缓存预热
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/376f9826-5573-4ce0-9609-14d7c94b6f5c)
+canal
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/9d9fcdee-e63e-417b-ba1b-0f0498d84f07)
+缓存同步策略
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/f13882b0-076e-44de-b130-a78af49a35d9)
+key结构推荐
+
 
 
