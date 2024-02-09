@@ -98,6 +98,8 @@ canal
 缓存同步策略
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/f13882b0-076e-44de-b130-a78af49a35d9)
 key结构推荐
-
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/9d29889f-fb81-44e1-b238-aa6ce153820d)
+Bigkey危害
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/8904ac74-242c-443f-b1cb-f5625ec55c97)
 
 
