@@ -101,5 +101,14 @@ key结构推荐
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/9d29889f-fb81-44e1-b238-aa6ce153820d)
 Bigkey危害
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/8904ac74-242c-443f-b1cb-f5625ec55c97)
+如何发现BigKey
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/0cf437ed-415e-40b2-acab-20cfa8ef27d3)
+删除BigKey
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e831e867-971a-4762-91ef-264f2125700d)
+对象类型如何设置数据类型避免BigKey的出现
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/fa66b78c-9e67-4de5-b592-79bef780de29)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/1ae63143-c2c4-43bc-872d-12c1a8667cd5)
+ KEY VALUE的最佳实践
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/45f9c001-3d58-44c1-8c00-853510ff9611)
 
 
