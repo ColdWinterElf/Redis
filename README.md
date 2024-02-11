@@ -116,7 +116,21 @@ Bigkey危害
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e418e28f-9c66-4991-a609-8d0e9fa48c51)
 持久化配置推荐
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/7f350748-0017-4ccf-bc93-fda57a95bf40)
- 
+安全防护措施
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/bfb0c261-05e8-457b-bf11-526ec779b5c6)
+reids内存配置
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/83f5a328-9a5a-48fe-b0b3-3ce03d05198d)
+内存缓冲区配置
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/460ab6cb-82cd-4f6f-a4b7-6ecc9b5073f9)
+集群使用不当存在的问题
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/f63b1abe-0e0f-4c98-bcce-062d2d266428)
+集群完整性问题
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/82b4de6f-c523-47a2-9c85-c4f0e73d9f0e)
+集群带宽问题
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/9c24efba-4b30-4118-835d-0b451529a613)
+选择集群还是主从
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/719136a6-b00b-42a0-a084-ef5a5466d533)
+
 
 
 
