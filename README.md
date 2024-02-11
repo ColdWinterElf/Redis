@@ -114,7 +114,9 @@ Bigkey危害
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e5ef9858-3edf-483a-b504-58fd57d89868)
 集群下的批处理方案
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e418e28f-9c66-4991-a609-8d0e9fa48c51)
-
+持久化配置推荐
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/7f350748-0017-4ccf-bc93-fda57a95bf40)
+ 
 
 
 
