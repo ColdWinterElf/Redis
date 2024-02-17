@@ -1,6 +1,12 @@
 ###### 登录校验
     通过两层拦截器拦截请求第一层拦截器拦截所有请求 判断user是否存在 存在更新token 不存在直接放行，第二层拦截需要登陆的请求做校验 通过order调节优先级 值越小越优先
     判断userholder.getuser是否为null 如果为null放行 并更新token时间
+###### redis缓存更新策略
+ ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/f13c9271-5379-467e-935a-27d54fa9ed68)
+###### 主动更新策略
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/fd5bf886-5077-41f8-93f7-acab1f9863e6)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e1d639be-bea6-4e06-8992-7f307bab32fe)
+
 
 
 
