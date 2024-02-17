@@ -1,5 +1,7 @@
-# Redis
+##### Redis
 
+    通过两层拦截器拦截请求第一层拦截器拦截所有请求 判断user是否存在 存在更新token 不存在直接放行，第二层拦截需要登陆的请求做校验
+判断userholder.getuser是否为null 如果为null放行 并更新token时间
 
 魔法值：业务代码中直接出现的常量。这些常量至少要放到全局变量中，或者枚举类中
 redis-cli连接redis
