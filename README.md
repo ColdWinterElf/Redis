@@ -8,6 +8,8 @@
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e1d639be-bea6-4e06-8992-7f307bab32fe)
 ###### Cache Aside Pattern
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/c66bc391-2030-4431-9430-2af507b70ccd)
+缓存穿透
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/cabb55b5-3d6e-4eb0-a657-5bb4c5f9a7fe)
 
 
 
