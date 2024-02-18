@@ -6,6 +6,8 @@
 ###### 主动更新策略
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/fd5bf886-5077-41f8-93f7-acab1f9863e6)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e1d639be-bea6-4e06-8992-7f307bab32fe)
+###### Cache Aside Pattern
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/c66bc391-2030-4431-9430-2af507b70ccd)
 
 
 
