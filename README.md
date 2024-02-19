@@ -16,6 +16,8 @@
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/4af6d982-79af-4d93-8168-96c884755908)
 ###### 缓存雪崩
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/b9d716d1-1338-4e67-84db-e03d241cf3a8)
+###### 缓存击穿
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/dea25b9a-db68-4fdc-ace5-41a45afa5e24)
 
 
 
