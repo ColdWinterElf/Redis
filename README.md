@@ -12,6 +12,8 @@
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/cabb55b5-3d6e-4eb0-a657-5bb4c5f9a7fe)
 ###### 缓存穿透修改示例
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/96749738-14fb-4e3d-81e8-57c2a959de1b)
+###### 缓存穿透产生原因及解决方案
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/97de3b0d-1cae-49b7-a676-9d714beddd2b)
 
 
 
