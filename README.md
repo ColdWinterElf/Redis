@@ -18,6 +18,8 @@
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/b9d716d1-1338-4e67-84db-e03d241cf3a8)
 ###### 缓存击穿
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/dea25b9a-db68-4fdc-ace5-41a45afa5e24)
+###### 缓存击穿通过互斥锁与逻辑过期解决
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/9b458153-dbe5-425a-bf05-f1a9a85b0564)
 
 
 
