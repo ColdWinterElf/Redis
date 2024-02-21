@@ -21,9 +21,10 @@
 ###### 缓存击穿通过互斥锁与逻辑过期解决及两种方法优缺点
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/7e0d7455-bf4d-4192-bcdb-30fcd6c1b6b9)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/4cdf6d3c-d68b-44b9-aa74-ad8be81d8fa5)
-###### 全局ID生成器
+###### 全局ID生成器生成策略及Redis自增ID策略
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/b99a598e-dbf6-43e4-bd01-17349c020ee1)
-
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/1f353be2-bf86-415f-bc74-ebbba454372b)
+###### 
 
 
 
