@@ -24,7 +24,9 @@
 ###### 全局ID生成器生成策略及Redis自增ID策略
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/b99a598e-dbf6-43e4-bd01-17349c020ee1)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/1f353be2-bf86-415f-bc74-ebbba454372b)
-###### 
+###### 乐观锁悲观锁
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/9aab335f-6b3a-4fc0-9935-305cc2477642)
+
 
 
 
