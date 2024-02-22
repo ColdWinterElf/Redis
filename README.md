@@ -26,6 +26,7 @@
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/1f353be2-bf86-415f-bc74-ebbba454372b)
 ###### 乐观锁悲观锁
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/9aab335f-6b3a-4fc0-9935-305cc2477642)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/f08a0477-e5da-4f65-aae7-e453c5612b87)
 
 
 
