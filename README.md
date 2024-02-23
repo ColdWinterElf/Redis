@@ -27,6 +27,17 @@
 ###### 乐观锁悲观锁
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/9aab335f-6b3a-4fc0-9935-305cc2477642)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/f08a0477-e5da-4f65-aae7-e453c5612b87)
+###### 什么是分布式锁
+![1708658972109](https://github.com/ColdWinterElf/Redis/assets/77095414/023ed2e6-616f-4320-b8f8-d501ce89a518)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e3c429da-48f0-4cd2-8545-d36243339315)
+###### 获取锁和释放锁
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/3c125d29-212e-446a-963b-c385604530cf)
+###### 返回值有空指针
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/d16f02a1-3214-4163-b62c-874a44d3ef5b)
+###### 基于redis的分布式锁
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/48a49e22-9e7f-491d-8ed6-070aaa886075)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/ffb84acb-082a-4c6c-9f6e-78c7f669cf7c)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/87539c15-2b7c-4025-9631-ff15d32998cd)在获取锁与释放锁之间有间隔 整体操作不是原子性
 
 
 
