@@ -38,6 +38,10 @@
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/48a49e22-9e7f-491d-8ed6-070aaa886075)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/ffb84acb-082a-4c6c-9f6e-78c7f669cf7c)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/87539c15-2b7c-4025-9631-ff15d32998cd)在获取锁与释放锁之间有间隔 整体操作不是原子性
+###### 基于Redis的分布式锁实现思路
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/30a21ce0-e1b6-40c1-a5c6-8373c88018c9)
+###### 基于Redis的分布式锁优化
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/3df2f7c0-9ad6-46fc-a12c-c6b851d82e36)
 
 
 
