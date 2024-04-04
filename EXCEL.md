@@ -1,2 +1,17 @@
-#快捷键
+### 快捷键
 ALT+= 快速求和
+F12或Fn+F12 另存为
+
+    碎片化学习像拼图
+    知识就像是一张完整的图像，单块的拼图没有意义，只有整张图拼完才有价值
+    每块碎片有固定位置，放错位置就废了
+    拼 图 的 碎 片 越 细 碎，就 越 难 完 成
+---
+    碎片化学习是搭积木
+    知识是拼出自己想要的形状，一块积木本身就是完整的，放哪都能有价值
+    积木的每个零件都没有固定位置
+    笨重大块的积木很难发挥作用，反而拆成小块后，更容易被使用
+
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/aff94174-df42-4576-b11b-dd6e6a6757b0)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/0f37b71c-e48d-4cfb-8ef4-12825ecec5d7)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/805d8078-7de4-4eab-a9f9-057577f3bd03)
