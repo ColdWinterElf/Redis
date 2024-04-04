@@ -20,4 +20,4 @@ Ctrl+E 快速填充 快速填充在对应位置如果重复了字符 那么快�
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/0f37b71c-e48d-4cfb-8ef4-12825ecec5d7)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/805d8078-7de4-4eab-a9f9-057577f3bd03)
 设置文件查看权限和编辑权限密码![image](https://github.com/ColdWinterElf/Redis/assets/77095414/d8919b88-4176-4157-a6b0-dd7edbfb2264)
-
+快速填充在数据没有链接起来时会失败 
