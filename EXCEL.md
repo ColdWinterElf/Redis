@@ -1,6 +1,10 @@
 ### 快捷键
 ALT+= 快速求和
 F12或Fn+F12 另存为
+Ctrl+E 快速填充 快速填充在对应位置如果重复了字符 那么快速填充也会在对应位置重复
+
+
+
 
     碎片化学习像拼图
     知识就像是一张完整的图像，单块的拼图没有意义，只有整张图拼完才有价值
@@ -15,3 +19,5 @@ F12或Fn+F12 另存为
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/aff94174-df42-4576-b11b-dd6e6a6757b0)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/0f37b71c-e48d-4cfb-8ef4-12825ecec5d7)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/805d8078-7de4-4eab-a9f9-057577f3bd03)
+设置文件查看权限和编辑权限密码![image](https://github.com/ColdWinterElf/Redis/assets/77095414/d8919b88-4176-4157-a6b0-dd7edbfb2264)
+
