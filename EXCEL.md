@@ -22,3 +22,4 @@ Ctrl+Q 快速分析
 设置文件查看权限和编辑权限密码![image](https://github.com/ColdWinterElf/Redis/assets/77095414/d8919b88-4176-4157-a6b0-dd7edbfb2264)
 快速填充在数据没有链接起来时会失败 
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/a6d23cb1-44f8-48d9-8487-8f31daa6e064)
+规范录入数据：建议横向输入，以一整行数据输入完毕作为一条数据
