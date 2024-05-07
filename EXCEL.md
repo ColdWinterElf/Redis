@@ -49,6 +49,8 @@ excel数据精度只有15位
 合并并加载
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/5e044e6e-19a8-4e2c-be0a-c48bbf8a9e15)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/d48c9ae0-a0db-483d-a26b-70fae22e9b24)
+###### 获取数据
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/2c47958b-798e-44f4-aadd-1d714e8620aa)
 
 ### 函数
 =NOW
