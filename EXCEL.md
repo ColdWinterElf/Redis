@@ -36,7 +36,19 @@ excel数据精度只有15位
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/805d8078-7de4-4eab-a9f9-057577f3bd03)
 设置文件查看权限和编辑权限密码![image](https://github.com/ColdWinterElf/Redis/assets/77095414/d8919b88-4176-4157-a6b0-dd7edbfb2264)
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/a6d23cb1-44f8-48d9-8487-8f31daa6e064)
-
+###### 如何添加选中单元格弹出的提示文本
+选中单元格-》数据-》数据验证-》输入信息
+###### 下拉列表
+选中单元格-》数据-》数据验证-》设置-》序列
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/6a35bd77-9ca2-4e38-9d4a-d3672cfa914d)
+###### 文本数据验证——例如身份证，并添加出错警告
+选中单元格-》数据-》数据验证-》设置-》文本长度-》出错警告
+###### 整合多表数据
+合并前提：具有相同表头即表格结构一致
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/ffb9eee4-7982-4fd2-afb6-f60f2af2e661)
+合并并加载
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/5e044e6e-19a8-4e2c-be0a-c48bbf8a9e15)
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/d48c9ae0-a0db-483d-a26b-70fae22e9b24)
 
 ### 函数
 =NOW
