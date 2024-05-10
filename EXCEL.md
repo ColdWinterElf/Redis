@@ -1,17 +1,18 @@
 ### 快捷键
-ALT + = 快速求和
-F12或Fn + F12 另存为
-Ctrl + E 快速填充 快速填充在对应位置如果重复了字符 那么快速填充也会在对应位置重复
-Ctrl + Q 快速分析
-Tab 切换到后一个单元格
-Enter 切换到下一行
-Shift + Enter 切换到上一行
-Tab + Enter 切换下一行第一列
-Shift + Tab + Enter 切换到前一个单元格
-Ctrl + ； 快速输入当前日期精确到日
-Ctrl + Shift + ；快速输入当前时间精确到秒
-Ctrl + Enter 原位填充 小技巧：原位填充配合定位里面的查找空值能够快速修改空白单元格内容
-Ctrl + D ***未知***
+    ALT + = 快速求和
+    F12或Fn + F12 另存为
+    Ctrl + E 快速填充 快速填充在对应位置如果重复了字符 那么快速填充也会在对应位置重复
+    Ctrl + Q 快速分析
+    Tab 切换到后一个单元格
+    Enter 切换到下一行
+    Shift + Enter 切换到上一行
+    Tab + Enter 切换下一行第一列
+    Shift + Tab + Enter 切换到前一个单元格
+    Ctrl + ； 快速输入当前日期精确到日
+    Ctrl + Shift + ；快速输入当前时间精确到秒
+    Ctrl + Enter 原位填充 小技巧：原位填充配合定位里面的查找空值能够快速修改空白单元格内容
+    Ctrl + D ***未知***
+    Ctrl + T 创建超级表
 ### 基础知识
 excel数据精度只有15位
 快速填充在数据没有链接起来时会失败 
@@ -51,6 +52,10 @@ excel数据精度只有15位
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/d48c9ae0-a0db-483d-a26b-70fae22e9b24)
 ###### 获取数据
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/2c47958b-798e-44f4-aadd-1d714e8620aa)
+###### 超级表
+插入-》表格
+将超级表转化为表格
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/48cbb4a5-ec9c-47f3-959f-6c0917bd0eae)
 
 ### 函数
 =NOW
