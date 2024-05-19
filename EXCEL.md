@@ -89,8 +89,18 @@
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/a733242c-dc1a-46d8-8552-58b93ce658bf)
     规范操作为 格式文本用英文双引号引起来 偷懒可以直接确认以后再打开它会自动帮你添加。
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/fce07dc0-c00f-4a48-9fc3-ca5f91aae308)
-###### 数字格式区域定义
+###### 数字格式区域定义代码
 ![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e2b310c6-e143-42a0-be4f-602ba46e1c14)
+###### 数据颜色格式代码
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/10723486-d63a-4e97-8d16-be6cb5d217d5)
+###### 数据条件格式代码
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/1a2ea84d-ace0-470f-bc25-46f1d172f82d)
+###### 日期格式代码
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/1b3aa675-1f7b-4417-bb1a-90e572b47d92)
+###### 练习题
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/e4688ab1-281e-4b4a-83ff-51589f3668e3)
+    参考效果
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/ddd5e3f1-9c6c-4363-b156-8d8cca03ed37)
 
 ### 函数
 =NOW
