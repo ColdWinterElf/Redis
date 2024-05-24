@@ -119,7 +119,9 @@
 标题打印>页面设置-工作表-【打印标题行】
 ### 函数
 ![9f38c234422d38f64956c178cbd0f45](https://github.com/ColdWinterElf/Redis/assets/77095414/6df4d908-66c4-4027-ad4d-994a2dc169a9)
-![9f38c234422d38f64956c178cbd0f45](https://github.com/ColdWinterElf/Redis/assets/77095414/6df4d908-66c4-4027-ad4d-994a2dc169a9)
 这里的意思是，本来向右拖拽时是行号不变，列号加1。但我们希望列号也不变，故在K前面加一个$的符号以固定列
-
+    AVERAGE函数时，文本和空单元格不会被计入求和或平均值中，只有输入数值0才会被计算。另外，使用SUM函数能够避免拼写错误和引用文本导致的报错，但要注意文本型的数值会导致SUM函数的求和结果错误。
+    SUM函数可以避免删除行导致的计算错误，同时也能自动将新增的行包括在内。其次，SUM函数能够简化数据的求和操作，利用变量加公式的方式
+###### SUMIF 
+![image](https://github.com/ColdWinterElf/Redis/assets/77095414/ca25bbf7-0b0d-45ee-b68c-40b259e97bb7)
 =NOW
